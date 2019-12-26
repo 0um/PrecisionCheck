@@ -1,6 +1,6 @@
 # PrecisionCheck
 
-Toy project, to use the lib [boost_matheval](https://github.com/hmenke/boost_matheval) :)
+Toy project, to use the lib [boost_matheval](https://github.com/hmenke/boost_matheval) from @hmenke
 
 To compile in my machine, I changed the boost version.
 
